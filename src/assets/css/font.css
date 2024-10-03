@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'kordi';
+    src: url('../font/kordi.ttf');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'IRnastealiq';
+    src: url('../font/IranNastaliq.ttf');
+    font-size: larger;
+}
+
+@font-face {
+    font-family: 'kamran';
+    src: url('../font/kamran.ttf');
+}
+
+body {
+    direction: rtl;
+    font-family: 'kordi';
+    /* font-family: 'IRnastealiq'; */
+    background-color: rgb(44, 33, 107);
+}
