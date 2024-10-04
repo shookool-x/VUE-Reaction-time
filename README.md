@@ -1,5 +1,3 @@
-# frstpr
-
 ## Project setup
 ```
 npm install
